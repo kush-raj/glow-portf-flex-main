@@ -65,30 +65,30 @@ const projects = [
     live: "https://public.tableau.com/views/blinkitDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     code: "#"
   },
-  {
-    title: "Crypto Dashboard",
-    desc: "Live crypto tracker with portfolio management, charts & price alerts.",
-    tags: ["Next.js","Web3","Charts"],
-    featured: false,
-    live: "#",
-    code: "#"
-  },
-  {
-    title: "Dev Tools CLI",
-    desc: "Productivity CLI for scaffolding projects, managing configs & automation.",
-    tags: ["Node.js","CLI","TypeScript"],
-    featured: false,
-    live: "#",
-    code: "#"
-  },
-  {
-    title: "Social Media App",
-    desc: "Instagram-style social app with stories, reels, real-time DMs.",
-    tags: ["React Native","Firebase","AI"],
-    featured: true,
-    live: "#",
-    code: "#"
-  }
+  // {
+  //   title: "Crypto Dashboard",
+  //   desc: "Live crypto tracker with portfolio management, charts & price alerts.",
+  //   tags: ["Next.js","Web3","Charts"],
+  //   featured: false,
+  //   live: "#",
+  //   code: "#"
+  // },
+  // {
+  //   title: "Dev Tools CLI",
+  //   desc: "Productivity CLI for scaffolding projects, managing configs & automation.",
+  //   tags: ["Node.js","CLI","TypeScript"],
+  //   featured: false,
+  //   live: "#",
+  //   code: "#"
+  // },
+  // {
+  //   title: "Social Media App",
+  //   desc: "Instagram-style social app with stories, reels, real-time DMs.",
+  //   tags: ["React Native","Firebase","AI"],
+  //   featured: true,
+  //   live: "#",
+  //   code: "#"
+  // }
 ];
 
 const ProjectsSection = () => (
