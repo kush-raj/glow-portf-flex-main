@@ -85,7 +85,7 @@
 
 import { motion } from "framer-motion";
 import { Github, Mail, Download, MessageCircle, ArrowDown, Terminal } from "lucide-react";
-import profileImg from "@/assets/niraj.png";
+import profileImg from "@/assets/Niraj.png";
 
 const HeroSection = () => (
   <section className="relative min-h-screen flex items-center section-padding pt-24 overflow-hidden noise">
