@@ -57,7 +57,7 @@
 // export default ContactSection;
 
 import { motion } from "framer-motion";
-import { Mail, MessageCircle, Github, Send, Sparkles } from "lucide-react";
+import { Mail, MessageCircle, Github, Send, Sparkles, Linkedin } from "lucide-react";
 import { useState } from "react";
 import emailjs from "@emailjs/browser";
 
@@ -138,7 +138,7 @@ const ContactSection = () => {
                 target="_blank"
                 className="flex items-center gap-3 p-3.5 rounded-xl glass text-sm"
               >
-                <MessageCircle size={16}/> Linkedin
+                <Linkedin size={16}/> Linkedin
               </a>
 
             </div>
