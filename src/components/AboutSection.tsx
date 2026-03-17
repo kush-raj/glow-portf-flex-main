@@ -89,13 +89,13 @@ const WhoIAmSection = () => (
               </p>
 
               <p>
-                Based between{" "}
+              I enjoy solving{" "}
                 <span className="text-primary glow-primary font-semibold">
-                  Alpha 1, Greater Noida
+                real-world
                 </span>{" "}
-                , I am actively seeking opportunities where I can apply my analytical skills to drive{" "}
+                business problems and helping organizations make{" "}
                 <span className="text-accent glow-accent font-semibold">
-                  real business impact.
+                data-driven decisions.
                 </span>
               </p>
 

@@ -2,27 +2,11 @@ import { motion } from "framer-motion";
 
 const skills = [
 
-  { name: "MS EXCEL", icon: "📊", tag: "Analytics & Data" },
-  { name: "SQL (Basic)", icon: "🗄️", tag: "Analytics & Data" },
-  { name: "POWER BI", icon: "📈", tag: "Analytics & Data" },
   { name: "PYTHON (Basic)", icon: "🐍", tag: "Analytics & Data" },
-  { name: "DATA VISUALIZATION", icon: "📉", tag: "Analytics & Data" },
-  { name: "DASHBOARD DEV", icon: "📋", tag: "Analytics & Data" },
-
-  { name: "BUSINESS ANALYSIS", icon: "💼", tag: "Business & Management" },
-  { name: "REQUIREMENTS GATHERING", icon: "📝", tag: "Business & Management" },
-  { name: "PROCESS MAPPING", icon: "🗺️", tag: "Business & Management" },
-  { name: "CRM TOOLS", icon: "👥", tag: "Business & Management" },
-  { name: "STAKEHOLDER MGMT", icon: "🤝", tag: "Business & Management" },
-  { name: "DOCUMENTATION", icon: "📄", tag: "Business & Management" },
-
-  { name: "DIGITAL MARKETING", icon: "📢", tag: "Marketing & Productivity" },
-  { name: "SEO", icon: "🔍", tag: "Marketing & Productivity" },
-  { name: "SOCIAL MEDIA MKTG", icon: "📱", tag: "Marketing & Productivity" },
-  { name: "MS WORD", icon: "📘", tag: "Marketing & Productivity" },
-  { name: "CONTENT STRATEGY", icon: "✍️", tag: "Marketing & Productivity" },
-  { name: "DIGITAL ANALYTICS", icon: "📊", tag: "Marketing & Productivity" },
-
+  { name: "POWER BI", icon: "📈", tag: "Analytics & Data" },
+  { name: "SQL (Basic)", icon: "🗄️", tag: "Analytics & Data" },
+  { name: "MS TOOLS", icon: "📊", tag: "Analytics & Data" },
+  
 ];
 const SkillsSection = () => (
   <section id="skills" className="section-padding relative noise">

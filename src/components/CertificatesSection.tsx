@@ -76,11 +76,25 @@ const certs = [
     link: "https://drive.google.com/file/d/1eKv7Vuza9yg-gll1Lf_e316hGxHX1O9V/preview"
   },
   {
+    title: "Data Skills Bootcamp on Analytics for the Future ",
+    issuer: "Sharda University",
+    date: "2025",
+    emoji: "📘",
+    link: "https://drive.google.com/file/d/1oYLQeIET4pmzQVCZYuyFVmPS_Vbn-It7/preview"
+  },
+  {
     title: "National Financial Literacy Quiz",
     issuer: "NISM / SEBI · Sharda University",
     date: "2026",
     emoji: "🎓",
     link: "https://drive.google.com/file/d/19qfv3r175B7e7ecudKHcdpf_iatBuznD/preview"
+  },
+  {
+    title: "Data Skills Bootcamp on Analytics for the Future ",
+    issuer: "Sharda University",
+    date: "2025",
+    emoji: "🎓",
+    link: "https://drive.google.com/file/d/1oYLQeIET4pmzQVCZYuyFVmPS_Vbn-It7/preview"
   },
   
 ];
