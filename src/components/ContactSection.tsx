@@ -133,6 +133,13 @@ const ContactSection = () => {
               >
                 <Github size={16}/> Github
               </a>
+              <a
+                href="https://linkedin.com/in/niraj-kumar-6a9512314"
+                target="_blank"
+                className="flex items-center gap-3 p-3.5 rounded-xl glass text-sm"
+              >
+                <MessageCircle size={16}/> Linkedin
+              </a>
 
             </div>
 
