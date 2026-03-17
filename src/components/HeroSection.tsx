@@ -84,7 +84,7 @@
 
 
 import { motion } from "framer-motion";
-import { Github, Mail, Download, MessageCircle, ArrowDown, Terminal } from "lucide-react";
+import { Github, Mail, Download, MessageCircle, ArrowDown, Terminal, Linkedin } from "lucide-react";
 import profileImg from "@/assets/Niraj.png";
 
 const HeroSection = () => (
@@ -146,6 +146,7 @@ const HeroSection = () => (
           {/* Social Icons */}
           <div className="flex gap-3">
             {[
+              { icon: Linkedin, href: "www.linkedin.com/in/niraj-kumar-6a9512314", label: "Linkedin" },
               { icon: Github, href: "https://github.com/NirajK1202", label: "GitHub" },
               { icon: MessageCircle, href: "https://wa.me/9731733706", label: "WhatsApp" },
               { icon: Mail, href: "mailto:nirajkumar.official1202@gmail.com", label: "Email" },
